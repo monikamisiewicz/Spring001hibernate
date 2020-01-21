@@ -10,7 +10,7 @@
     <packaging>war</packaging>
 
     <properties>
-        <spring-framework.version>5.1.9.RELEASE</spring-framework.version>
+        <spring-framework.version>5.2.0.RELEASE</spring-framework.version>
         <!--        Informacja dla Mavena, żeby nie reagował na brak pliku web.xml – nie jest on wymagany:-->
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <maven.compiler.source>1.8</maven.compiler.source>
